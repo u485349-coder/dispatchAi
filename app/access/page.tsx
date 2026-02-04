@@ -36,7 +36,7 @@ export default function AccessPage() {
       <div className="max-w-md space-y-6 text-center">
         <h1 className="text-3xl font-semibold">Request Early Access</h1>
         <p className="text-sm text-[#9CA3AF]">
-          DispatchAI is currently invite-only while we validate real-world safety scenarios.
+          Clarion is currently invite-only while we validate real-world safety scenarios.
         </p>
 
         {submitted ? (

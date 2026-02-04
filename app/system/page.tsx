@@ -11,7 +11,7 @@ export default function SystemPage() {
         <header className="space-y-4">
           <h1 className="text-4xl font-semibold">System Overview</h1>
           <p className="text-[#9CA3AF] max-w-2xl">
-            DispatchAI is built as a safety pipeline, not a social product or
+            Clarion is built as a safety pipeline, not a social product or
             analytics dashboard.
           </p>
         </header>

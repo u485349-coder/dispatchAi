@@ -5,7 +5,7 @@ export default function Home() {
         {/* Hero */}
         <div className="max-w-2xl space-y-6">
           <h1 className="text-5xl md:text-6xl font-semibold tracking-tight leading-tight">
-            DispatchAI
+            Clarion
           </h1>
           <p className="text-[#9CA3AF] text-lg md:text-xl">
             An intelligent safety dispatch system that detects risk, compresses
@@ -54,7 +54,7 @@ export default function Home() {
           <div className="space-y-3">
             <h3 className="text-lg font-medium">Automated Escalation</h3>
             <p className="text-sm text-[#9CA3AF]">
-              Dispatch logic triggers SMS, monitoring, or live response without
+              Clarion logic triggers SMS, monitoring, or live response without
               requiring the user to explain what’s happening.
             </p>
           </div>
@@ -84,7 +84,7 @@ export default function Home() {
 
         {/* Footer */}
         <footer className="mt-32 text-xs text-[#9CA3AF]">
-          DispatchAI is a safety-first system. No social features. No dashboards
+          Clarion is a safety-first system. No social features. No dashboards
           for show. Just reliable escalation when it matters.
         </footer>
       </section>
